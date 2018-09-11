@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">CicloDeVida</string>
+    <string name="activity_a_label">Atividade A</string>
+    <string name="activity_b_label">Atividade B</string>
+    <string name="activity_c_label">Atividade C</string>
+    <string name="btn_start_a_label">Iniciar A</string>
+    <string name="btn_start_b_label">Iniciar B</string>
+    <string name="btn_start_c_label">Iniciar C</string>
+    <string name="btn_start_dialog_label">Diálogo</string>
+    <string name="btn_finish_a_label">Terminar A</string>
+    <string name="btn_finish_b_label">Terminar B</string>
+    <string name="btn_finish_c_label">Terminar C</string>
+    <string name="btn_finish_dialog_label">Fechar</string>
+    <string name="lifecycle_method_list">Lista de Métodos do Ciclo de Vida</string>
+    <string name="activity_status">Status da Atividade</string>
+    <string name="dialog_text">Diálogo Simples</string>
+    <string name="on_create">onCreate</string>
+    <string name="on_destroy">onDestroy</string>
+    <string name="on_start">onStart</string>
+    <string name="on_restart">onRestart</string>
+    <string name="on_stop">onStop</string>
+    <string name="on_pause">onPause</string>
+    <string name="on_activity_created">onActivityCreated</string>
+    <string name="on_attach">onAttach</string>
+    <string name="on_create_view">onCreateView</string>
+    <string name="on_destroy_view">onDestroyView</string>
+    <string name="on_detach">onDetach</string>
+    <string name="on_view_created">onViewCreated</string>
+    <string name="on_resume">onResume</string>
+    <string name="activity_a">Atividade A</string>
+    <string name="start_a">Iniciar A</string>
+    <string name="start_b">Iniciar B</string>
+    <string name="start_c">Iniciar C</string>
+    <string name="close">Fechar</string>
+    <string name="dialog">Diálogo</string>
+    <string name="title_activity_activity_b">Atividade B</string>
+    <string name="title_activity_activity_c">Atividade C</string>
+    <string name="title_activity_dialog">Diálogo</string>
+    <string name="title_activity">Ciclo de Vida da Atividade</string>
+
+</resources>
