@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ServiceDesk CCP3ANBUA</string>
+    <string name="action_settings">Settings</string>
+    <string name="busca_fila">fila solucionador</string>
+</resources>
