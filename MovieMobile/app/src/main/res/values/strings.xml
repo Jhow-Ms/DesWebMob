@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FilmeApp</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="genero">
+        <item>Todos</item>
+        <item>Aventura</item>
+        <item>Ação</item>
+        <item>Comédia</item>
+        <item>Terror</item>
+    </string-array>
+</resources>
