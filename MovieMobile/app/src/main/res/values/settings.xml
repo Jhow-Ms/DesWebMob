@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="web_service_url">http://localhost:8080/projeto_pipoca_deswebmob_modelo/</string>
+    <string name="image_download_url">http://localhost:8080/projeto_pipoca_deswebmob_modelo/images/%s.png</string>
+</resources>
